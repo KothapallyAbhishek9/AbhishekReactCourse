@@ -1,1 +1,1 @@
-Hi I'm Kothapally Abhishek Chary
+Hi I'm Kothapally Abhishek Chary. This is my new course on React.
